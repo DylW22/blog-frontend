@@ -13,7 +13,7 @@ function App() {
           <img src={reactLogo} className="w-32" alt="React logo" />
         </a>
       </div>
-      <h1 className="mt-4 text-xl font-bold">Intermediate File Structure template</h1>
+      <h1 className="mt-4 text-xl font-bold">Intermediate File Structure Template</h1>
       <p className="mt-2 text-center text-ml">
         <a href="https://blog.webdevsimplified.com/2022-07/react-folder-structure/" target="_blank" rel="noopener noreferrer">
           https://blog.webdevsimplified.com/2022-07/react-folder-structure/
