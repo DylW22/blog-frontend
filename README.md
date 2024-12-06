@@ -26,15 +26,15 @@ To get started with the project locally:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/blog-posts.git
-cd blog-posts
-
+git clone https://github.com/DylW22/blog-frontend.git
+cd blog-frontend
+```
 ### 2. Installation
 
 Ensure you have node installed and then run:
 ```bash
 npm install
-
+```
 ### 3. Create a .env file:
 
 VITE_ENVIRONMENT=development
@@ -42,4 +42,4 @@ VITE_ENVIRONMENT=development
 ### 4. Start the development server
 ```bash
 npm start
-
+```
